@@ -1,0 +1,35 @@
+<projet>
+    <Nom>TD1 </Nom>
+    <Libraries>
+        <Librarie>
+            <NomLib>JDBC </NomLib>
+            <Version>21.3.0 </Version>
+            <Description> </Description>
+        </Librarie>
+        <Librarie>
+            <NomLib>Junit </NomLib>
+            <Version>4.13.2 </Version>
+            <Description>3.0.3 </Description>
+        </Librarie>
+        <Librarie>
+            <NomLib>Jersey </NomLib>
+            <Version>3.0.3 </Version>
+            <Description> </Description>
+        </Librarie>
+    </Libraries>
+
+    <Serveurs>
+        <Serveur>
+            <NomServ>Test</NomServ>
+            <URL>test.com</URL>
+        </Serveur>
+        <Serveur>
+            <NomServ>inté</NomServ>
+            <URL>inte.com</URL>
+        </Serveur>
+        <Serveur>
+            <NomServ>production</NomServ>
+            <URL>facebook.com</URL>
+        </Serveur>
+    </Serveurs>
+</projet>

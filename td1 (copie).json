@@ -1,0 +1,25 @@
+{
+    "name": "TD1",
+    "libraries" : [
+        {
+            "NomLib":"JDBC",
+            "Version" :"21.3.0",
+            "Description" : ""
+        },
+        {
+            "NomLib":"Junit",
+            "Version" :"4.13.2",
+            "Description" : ""
+        }
+    ],
+    "serveur": [
+        {
+            "NomServ":"Test",
+            "URL" : "google.com"
+        },
+        {
+            "NomServ":"Inté",
+            "URL" : "t.com"
+        }
+    ]
+}

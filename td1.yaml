@@ -1,0 +1,15 @@
+---
+nom : TD1
+librairies : 
+  - nomLib : JDBC
+    version : 21.3.0
+    description : COOL
+  - nomLib : Junit
+    version : 0.0.0.0
+    description : nul
+Seveur:
+  - NomServ : Test
+    UML : google.com
+  - NomServ : Inté
+    UML : fhjds.com
+
